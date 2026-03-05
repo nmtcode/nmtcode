@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NMTCODE/NMTCODE/main/images/hellocoders_rounded.gif" onerror="this.src='https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true'" alt="Hello Coders" width="60%"/> <br>
-<img src="https://raw.githubusercontent.com/NMTCODE/NMTCODE/main/images/dev-working_rounded.gif" onerror="this.src='https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true'" alt="Workspace" width="40%"/><br> 
+<h1>Hi 👋, I'm Nawaf Almawri</h1>
+<h3>Backend Developer | .NET Core Specialist</h3>
 
 <details>
 <p><strong> <summary> 🎧 Busy coding & Vibing to : </summary> </strong></p>
@@ -11,9 +11,10 @@
 </details>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=NMTCODE&style=flat&color=orange&label=PROFILE+VIEWS)
+[![Portfolio](https://img.shields.io/badge/Portfolio-NMTCODE-black?style=flat&logo=google-chrome&logoColor=white)](https://nmtcode.github.io/Nawaf_AlMawri/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-NMTCODE-blue?style=flat&logo=linkedin)](https://linkedin.com/in/NMTCODE)
 [![Telegram](https://img.shields.io/badge/Telegram-NMTCODE-grey?style=flat&logo=telegram)](https://t.me/NMTCODE)
-[![Twitter](https://img.shields.io/badge/Twitter-NMTCODE-1DA1F2?style=flat&logo=twitter)](https://twitter.com/NMTCODE) <br>
+<br>
 </div>
 
 <hr></hr>
@@ -38,6 +39,7 @@ class About : Me {
   public About() {
     string Role = "Back-End Developer | .NET Core Specialist";
     int UniversityYear = 3;
+    string Portfolio = "[https://nmtcode.github.io/Nawaf_AlMawri/](https://nmtcode.github.io/Nawaf_AlMawri/)";
     
     var MySkills = new Dictionary<string, List<string>> {
       { "Backend",  new List<string> { "C#", "ASP.NET Core", "EF Core", "OOP", "SOLID", "DS" } },
