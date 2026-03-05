@@ -3,13 +3,6 @@
 <h1>Hi 👋, I'm Nawaf Almawri</h1>
 <h3>Backend Developer | .NET Core Specialist</h3>
 
-<details>
-<p><strong> <summary> 🎧 Busy coding & Vibing to : </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com) <br>
-
-</details>
-
 ![Totals Hits](https://komarev.com/ghpvc/?username=NMTCODE&style=flat&color=orange&label=PROFILE+VIEWS)
 [![Portfolio](https://img.shields.io/badge/Portfolio-NMTCODE-black?style=flat&logo=google-chrome&logoColor=white)](https://nmtcode.github.io/Nawaf_AlMawri/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-NMTCODE-blue?style=flat&logo=linkedin)](https://linkedin.com/in/NMTCODE)
